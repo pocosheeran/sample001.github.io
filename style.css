@@ -4,8 +4,8 @@ font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシ�
 body{
   background-color:rgb(228, 146, 146);
   color:rgb(255, 198, 195);
+  height: 100%;
   width:100%;
-  height: 1000px;
   margin: -25px auto;
   font-size: 20px;
   text-align: center;
