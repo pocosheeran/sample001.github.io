@@ -7,7 +7,7 @@ body{
   width:100%;
   height: 1000px;
   margin: -25px auto;
-
+  font-family:35px;
   text-align: center;
 }
 
@@ -22,18 +22,19 @@ body{
 }
 
 input{
-  height: 20px;
+  height: 40px;
   border-radius: 7px;
   background-color: rgb(255, 198, 195);
 }
 button{
   margin: 10px 20px;
-  padding:10px auto;
+  padding:10px;
   background-color: rgb(213, 145, 175);
   border-color: #FFFFFF;
   border-radius: 77px;
   border-style: groove;
   color: #FFFFFF;
+  font-size: 20px;
 }
 #top{
   padding-top: 50px;
